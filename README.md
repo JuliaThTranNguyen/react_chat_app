@@ -1,6 +1,7 @@
 # Welcome to MS Teams Clone!
 
-### [I am following this lecture from :](https://www.youtube.com/watch?v=jcOKU9f86XE)
+### I am following this lecture from :
+([Visit this link here](https://www.youtube.com/watch?v=jcOKU9f86XE))
 
 
 ## Introduction
