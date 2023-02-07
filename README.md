@@ -1,4 +1,4 @@
-# Welcome to MS Teams Clone!
+# Welcome to MS Teams Clone project for chat application!
 
 ### I am following this lecture from :
 ([Visit this link here](https://www.youtube.com/watch?v=jcOKU9f86XE))
